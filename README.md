@@ -1,6 +1,6 @@
 # Hi there! I'm Abdul Manan 👋
 
-Welcome to my GitHub! I'm a **Final-Year Computer Engineering Student** specializing in **Data Engineering** and **Cloud Computing**. My expertise lies in building end-to-end data pipelines, crafting cloud-native solutions, and solving real-world data problems using modern technologies across **AWS**, **Azure**, and **GCP**.
+Welcome to my GitHub! I'm a **recent graduate** specializing in **Data Engineering** and **Cloud Computing**. My expertise lies in building end-to-end data pipelines, crafting cloud-native solutions, and solving real-world data problems using modern technologies across **AWS**, **Azure**, and **GCP**.
 
 ---
 
